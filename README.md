@@ -9,9 +9,8 @@ Sumérgete en el vertiginoso mundo de la F1, donde la precisión y la velocidad 
 
 ***** Gráficos Realistas: Disfruta de un asombroso nivel de detalle en cada vehículo, pista y entorno, gracias a los avanzados gráficos proporcionados por Unity3D. Los modelos de los coches, 
       las animaciones y los efectos visuales te sumergirán en una experiencia visual impactante.
-
-      ![Principal](https://github.com/18-anth/F1_GAME/blob/proyecto/img/img_1.jpeg)
       
+![img_1](https://github.com/18-anth/F1_GAME/assets/72144025/d9314bed-92c9-402d-a5a3-c95429cd6dcd)
 
 ***** Física Realista: Experimenta la emoción de la F1 con un motor de física avanzado que simula de manera precisa la velocidad, la aceleración, 
       el agarre y las fuerzas G. Cada curva, cada frenada y cada adelantamiento se sienten auténticos, brindándote la sensación de estar al volante de un monoplaza de Fórmula 1.
